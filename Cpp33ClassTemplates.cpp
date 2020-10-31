@@ -9,7 +9,7 @@ class Moni2 {
 		}
 };
 
-template <> // specilized template
+template <> // specialized template
 class Moni2 <char> {
 	public:
 		Moni2(char x) {
